@@ -1,6 +1,6 @@
 Architectures: arm64
 Components: main
 Suites: bookworm
-Uris: https://repo.droidian-community.fakeshell.com/
+Uris: https://drive.iaboothahir.workers.dev/droidian/
 Types: deb
 Signed-By: /var/lib/extrepo/keys/droidian-x00td.asc
