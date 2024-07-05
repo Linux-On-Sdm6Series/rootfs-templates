@@ -1,0 +1,7 @@
+Architectures: arm64
+Components: main
+Suites: bookworm
+Uris: https://drive.iaboothahir.workers.dev/
+Types: deb
+Signed-By: /var/lib/extrepo/keys/droidian-x00td.asc
+Trusted: yes
