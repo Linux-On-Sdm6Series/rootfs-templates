@@ -13,6 +13,13 @@ actions:
     mirror: http://releases.droidian.org/snapshots/current
     variant: minbase
 
+  - action: apt
+    chroot: true
+    description: install apt config
+    update: true
+    packages:
+      - ca-certificates
+
   - action: overlay
     source: ../apt
     description: Adding apt overlay
